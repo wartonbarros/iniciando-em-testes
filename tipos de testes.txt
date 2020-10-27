@@ -1,0 +1,51 @@
+Teste de Usabilidade: O Software é fácil de usar?
+Teste de Confiabilidade: O quanto podemos confiar no funcionamento correto do Software, ele é tolerante a falhas?
+Teste de Portabilidade: É possível usar em diversas plataformas com pouco esforço de adaptação?
+Teste de Acessibilidade: Qualquer usuário, deficiente ou não, consegue usar a aplicação?
+#
+#
+ISO-9126 - Norma que define as características voltadas a qualidade de Software
+#
+#
+################################USABILIDADE###############################
+*Problemas mais comuns:
+  - Irrelevância:
+	Informações exibidas na interface que não possuem nenhuma utilidade,
+	sem pertinência ás necessidades do usuário.
+
+  - Inadequação:
+	Abreviaturas usadas sem prévia explicação do termo completo.
+
+  - Resposta Inesperada:
+	Ao acionar um link, a aplicação apresentar outra página totalmente
+	da solicitada.
+
+  - Cliques:
+	Efetuar muitos cliques para conseguir chegar a funcionalidade desejada.
+
+
+################################CONFIABILIDADE############################
+*Problemas mais comuns:
+  -
+  -
+  -
+  -
+
+
+
+################################PORTABILIDADE#############################
+*Problemas mais comuns:
+  -
+  -
+  -
+  -
+
+
+
+################################ACESSIBILIDADE############################
+*Problemas mais comuns:
+  -
+  -
+  -
+  -
+
